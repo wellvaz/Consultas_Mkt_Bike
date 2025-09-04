@@ -30,12 +30,10 @@ Executar comandos de consultas via script na dase de dados conforme solicitaçã
 - Listar os Funcionarios que não estejam relacionados a um Pedido.
 
 # Resultados
-As querys de consultas, estão geradas com o nome query.sql da Master deste mesmo projeto.
-
-Devem ser inseridas na ferramenta de relatorios do cliente e testadas para extração dos dados.
+As querys de consultas, estão geradas no diretorio https://github.com/wellvaz/Consultas_Mkt_Bike/blob/master/query.sql e devem ser inseridas na ferramenta de relatorios do cliente e testadas para extração dos dados.
 
 # Conclusão
-Confirmar com o cliente solictante, o resultado das pesquisa e o funcionamento de acordo com a solicitação do requisitante.
+Confirmar com o cliente solicitante o resultado das pesquisa e o funcionamento de acordo com as primicias do projeto.
 
   
 
